@@ -1,0 +1,272 @@
+1539871925920	geckodriver	INFO	geckodriver 0.21.0
+1539871925930	geckodriver	INFO	Listening on 127.0.0.1:15008
+1539871929061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jarkko\\AppData\\Local\\Temp\\rust_mozprofile.GZM3lSjX4XGt"
+1539871931211	Marionette	INFO	Listening on port 15016
+1539871931241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539871931313	Marionette	DEBUG	[6442450945] Frame script loaded
+1539871931324	Marionette	DEBUG	[6442450945] Frame script registered
+1539871931398	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539871932073	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539871932669	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tizag.com/javascripT/javascriptalert.php
+1539871932941	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tizag.com/javascripT/javascriptalert.php
+[Parent 245728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 245728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 244996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromi[um/src/chrome/common/ipc_channel_win.cc, line 346C
+hild 24[Child5208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2[Parent 245728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 245720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 245720, Chr1539872032232	Marionette	INFO	Stopped listening on port 15016
+[GPU 2
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539872051352	geckodriver	INFO	geckodriver 0.21.0
+1539872051362	geckodriver	INFO	Listening on 127.0.0.1:15088
+1539872054431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jarkko\\AppData\\Local\\Temp\\rust_mozprofile.mWRYfU7mhD55"
+1539872056467	Marionette	INFO	Listening on port 15096
+1539872056591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539872056633	Marionette	DEBUG	[6442450945] Frame script loaded
+1539872056641	Marionette	DEBUG	[6442450945] Frame script registered
+1539872056672	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539872057060	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539872057627	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tizag.com/
+1539872057930	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tizag.com/
+[Parent 245772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 245772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 245720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 245720, Chrome_ChildThread] WARNING: pipe[Parent 245772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539872144520	Marionette	INFO	Stopped listening on port 15096
+[GPU 24
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539872269619	geckodriver	INFO	geckodriver 0.21.0
+1539872269630	geckodriver	INFO	Listening on 127.0.0.1:15138
+1539872272712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jarkko\\AppData\\Local\\Temp\\rust_mozprofile.4LXaiZgOWh64"
+1539872274850	Marionette	INFO	Listening on port 15146
+1539872274879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539872274922	Marionette	DEBUG	[6442450945] Frame script loaded
+1539872274929	Marionette	DEBUG	[6442450945] Frame script registered
+1539872274971	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539872275375	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539872276099	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872276326	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1539872276326	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1539872276475	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+[Child 246436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 246436,[Child 247416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 247416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build[Child 247700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 247700, Chrome_1539872835273	Marionette	INFO	Stopped listening on port 15146
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+539872721941	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539872722669	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872722940	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1539872722943	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1539872723081	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872723136	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872723521	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872723523	Marionette	DEBUG	[6442450945] Received DOM event unload for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872723940	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://support.google.com/accounts/answer/2917834?visit_id=636754695222178699-1464671541&p=signin_privatebrowsing&hl=fi&rd=1
+1539872723942	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1539872724585	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://support.google.com/accounts/answer/2917834?visit_id=636754695222178699-1464671541&p=signin_privatebrowsing&hl=fi&rd=1
+1539872724627	Marionette	INFO	Stopped listening on port 15222
+[Child 249536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Child 249680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 249680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 248852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 238892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23889[GPU 2492
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539872789062	geckodriver	INFO	geckodriver 0.21.0
+1539872789072	geckodriver	INFO	Listening on 127.0.0.1:15285
+1539872792153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jarkko\\AppData\\Local\\Temp\\rust_mozprofile.BHZGnofAQvMX"
+1539872794377	Marionette	INFO	Listening on port 15293
+1539872794434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539872794475	Marionette	DEBUG	[6442450945] Frame script loaded
+1539872794483	Marionette	DEBUG	[6442450945] Frame script registered
+1539872794509	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539872794960	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539872795620	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872795847	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1539872795847	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1539872795960	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872795996	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872796253	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872796254	Marionette	DEBUG	[6442450945] Received DOM event unload for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872796663	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://support.google.com/accounts/answer/2917834?visit_id=636754695949334781-3557743218&p=signin_privatebrowsing&hl=fi&rd=1
+1539872796666	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1539872797328	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://support.google.com/accounts/answer/2917834?visit_id=636754695949334781-3557743218&p=signin_privatebrowsing&hl=fi&rd=1
+[Parent 249316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 250032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/i[pCch_channel_win.cc, line 346i
+ld 249180, Chrome_ChildThre[aChid] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 249316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539872835181	Marionette	INFO	Stopped listening on port 15293
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539872903356	geckodriver	INFO	geckodriver 0.21.0
+1539872903366	geckodriver	INFO	Listening on 127.0.0.1:15342
+1539872906454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jarkko\\AppData\\Local\\Temp\\rust_mozprofile.Xk3xTNfhDIYz"
+1539872908576	Marionette	INFO	Listening on port 15350
+1539872908616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539872908656	Marionette	DEBUG	[6442450945] Frame script loaded
+1539872908658	Marionette	DEBUG	[6442450945] Frame script registered
+1539872908687	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539872909069	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539872909695	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872909920	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1539872909923	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1539872910078	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872910139	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872910351	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872910353	Marionette	DEBUG	[6442450945] Received DOM event unload for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872910801	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1539872910845	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://support.google.com/accounts/answer/2917834?visit_id=636754697090485389-4090444603&p=signin_privatebrowsing&hl=fi&rd=1
+1539872911617	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://support.google.com/accounts/answer/2917834?visit_id=636754697090485389-4090444603&p=signin_privatebrowsing&hl=fi&rd=1
+1539872911669	Marionette	INFO	Stopped listening on port 15350
+[Child 250064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 250064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 247316, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 247316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 247[Parent 249668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539872922769	geckodriver	INFO	geckodriver 0.21.0
+1539872922779	geckodriver	INFO	Listening on 127.0.0.1:15396
+1539872925837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jarkko\\AppData\\Local\\Temp\\rust_mozprofile.aoxyen1MSAuI"
+1539872927910	Marionette	INFO	Listening on port 15404
+1539872927994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539872928033	Marionette	DEBUG	[6442450945] Frame script loaded
+1539872928038	Marionette	DEBUG	[6442450945] Frame script registered
+1539872928062	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539872928456	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539872929072	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872929295	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1539872929295	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1539872929431	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872929481	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872929750	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872929752	Marionette	DEBUG	[6442450945] Received DOM event unload for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539872930159	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1539872930169	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://support.google.com/accounts/answer/2917834?visit_id=636754697284516988-2379821677&p=signin_privatebrowsing&hl=fi&rd=1
+1539872930946	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://support.google.com/accounts/answer/2917834?visit_id=636754697284516988-2379821677&p=signin_privatebrowsing&hl=fi&rd=1
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 249748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 249980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 249980, Chrome_ChildThread] [Child 249708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 249708, Chrome_ChildT[Parent 249748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 249972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1539873156545	Marionette	INFO	Stopped listening on port 15404
+[GPU 246328
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[Parent 249196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 250908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 250908, Chr1539873084414	Marionette	INFO	Stopped listening on port 15461
+[GPU 250
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539873221047	geckodriver	INFO	geckodriver 0.21.0
+1539873221057	geckodriver	INFO	Listening on 127.0.0.1:15521
+1539873224137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jarkko\\AppData\\Local\\Temp\\rust_mozprofile.rYzrIEJQxP56"
+1539873226268	Marionette	INFO	Listening on port 15529
+1539873226323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539873226384	Marionette	DEBUG	[6442450945] Frame script loaded
+1539873226398	Marionette	DEBUG	[6442450945] Frame script registered
+1539873226445	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539873226780	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539873227420	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539873227669	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1539873227669	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1539873227798	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539873227850	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539873228109	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539873228111	Marionette	DEBUG	[6442450945] Received DOM event unload for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539873228520	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://support.google.com/accounts/answer/2917834?visit_id=636754700268014366-38899267&p=signin_privatebrowsing&hl=fi&rd=1
+1539873228545	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1539873229321	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://support.google.com/accounts/answer/2917834?visit_id=636754700268014366-38899267&p=signin_privatebrowsing&hl=fi&rd=1
+[Parent 245688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 245688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 251344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 251344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 245688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 250088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 250088, Chrome_ChildThread] W1539873235871	Marionette	INFO	Stopped listening on port 15529
+[GPU 249816,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539873264313	geckodriver	INFO	geckodriver 0.21.0
+1539873264323	geckodriver	INFO	Listening on 127.0.0.1:15580
+1539873267381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jarkko\\AppData\\Local\\Temp\\rust_mozprofile.PNYQv4XXdy1L"
+1539873270417	Marionette	INFO	Listening on port 15589
+1539873270710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539873270749	Marionette	DEBUG	[6442450945] Frame script loaded
+1539873270751	Marionette	DEBUG	[6442450945] Frame script registered
+1539873270768	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539873271132	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539873272062	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539873272524	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1539873272526	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1539873272632	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539873272675	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539873272893	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539873272896	Marionette	DEBUG	[6442450945] Received DOM event unload for https://accounts.google.com/signin/v2/identifier?service=accountsettings&passive=1209600&osid=1&continue=https%3A%2F%2Fmyacco ... tps%3A%2F%2Fmyaccount.google.com%2Fintro&csig=AF-SEnb5_fDz1F3kgqyZ%3A1539872180&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+1539873273446	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1539873273493	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://support.google.com/accounts/answer/2917834?visit_id=636754700715969033-623372625&p=signin_privatebrowsing&hl=fi&rd=1
+1539873274252	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://support.google.com/accounts/answer/2917834?visit_id=636754700715969033-623372625&p=signin_privatebrowsing&hl=fi&rd=1
+[Child 251028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 251[Parent 219108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 251528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 251528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc1539873282858	Marionette	INFO	Stopped listening on port 15589
+[GPU 2516
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
