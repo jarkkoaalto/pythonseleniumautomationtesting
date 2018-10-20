@@ -270,3 +270,243 @@ IPDL protocol error: Handler returned error code!
 [GPU 2516
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1540061066012	geckodriver	INFO	geckodriver 0.21.0
+1540061066021	geckodriver	INFO	Listening on 127.0.0.1:18823
+1540061069144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jarkko\\AppData\\Local\\Temp\\rust_mozprofile.SYp1fExUk2Me"
+1540061072669	Marionette	INFO	Listening on port 18831
+1540061072993	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540061073032	Marionette	DEBUG	[6442450945] Frame script loaded
+1540061073034	Marionette	DEBUG	[6442450945] Frame script registered
+1540061073060	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540061074638	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540061075590	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.spicejet.com/
+1540061076570	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.spicejet.com/
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: "getUsedFontFaces@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:291:11\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1159:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1783:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:735:7\n"
+console.error: "Could not get the list of font families" "Protocol error (unknownError): node is null"
+[Parent 326792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 327408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 327408, Chrome_ChildThread] WARNING: pipe error: 109: filJavaScript warning: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 135ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+console.error: "Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/memoryActor11"
+[Parent 326792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 326792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 329320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 329320, Chrome_ChildThread] WARNING: pipe error: 109: file z:IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 326792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 327616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 327616, Chrome_ChildThread] WARN1540061652068	Marionette	INFO	Stopped listening on port 18831
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540061654086	geckodriver	INFO	geckodriver 0.21.0
+1540061654096	geckodriver	INFO	Listening on 127.0.0.1:18966
+1540061657139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jarkko\\AppData\\Local\\Temp\\rust_mozprofile.C9r69ldQYOva"
+1540061659450	Marionette	INFO	Listening on port 18974
+1540061659869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540061659930	Marionette	DEBUG	[6442450945] Frame script loaded
+1540061659932	Marionette	DEBUG	[6442450945] Frame script registered
+1540061659949	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540061661127	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540061662030	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.spicejet.com/
+1540061663046	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.spicejet.com/
+1540061663065	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.spicejet.com/
+1540061663222	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.spicejet.com/
+1540061663226	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.spicejet.com/
+1540061663458	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+1540061663578	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540061663760	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+[Parent 330536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 330536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 329460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_wi[Child 329312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346n
+.cc, li[Chine 346
+[Child 329460, C[Child 329364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1540061917753	Marionette	INFO	Stopped listening on port 18974
+[GPU 329
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540061968676	geckodriver	INFO	geckodriver 0.21.0
+1540061968688	geckodriver	INFO	Listening on 127.0.0.1:19037
+1540061971724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jarkko\\AppData\\Local\\Temp\\rust_mozprofile.TYPAhqDGaav5"
+1540061973852	Marionette	INFO	Listening on port 19045
+1540061973957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540061974000	Marionette	DEBUG	[6442450945] Frame script loaded
+1540061974010	Marionette	DEBUG	[6442450945] Frame script registered
+1540061974040	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540061975375	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540061976168	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.spicejet.com/
+1540061977215	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.spicejet.com/
+1540061977349	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.spicejet.com/
+1540061977540	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.spicejet.com/
+1540061977542	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.spicejet.com/
+1540061977794	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+1540061977892	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540061978043	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+[Parent 330044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 330044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 330864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 330964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 330[Parent 330044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540062060769	Marionette	INFO	Stopped listening on port 19045
+[GPU 3
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540062064003	geckodriver	INFO	geckodriver 0.21.0
+1540062064013	geckodriver	INFO	Listening on 127.0.0.1:19099
+1540062067055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jarkko\\AppData\\Local\\Temp\\rust_mozprofile.btIXjxlmwidj"
+1540062069143	Marionette	INFO	Listening on port 19107
+1540062069194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540062069239	Marionette	DEBUG	[6442450945] Frame script loaded
+1540062069241	Marionette	DEBUG	[6442450945] Frame script registered
+1540062069285	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540062070515	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540062071343	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.spicejet.com/
+1540062072431	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.spicejet.com/
+1540062072553	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.spicejet.com/
+1540062072740	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.spicejet.com/
+1540062072742	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.spicejet.com/
+1540062072993	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+1540062073083	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540062073241	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+[Parent 331152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 331672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 331672, Chrome_Child[Child 331388, Chrome_1540062115062	Marionette	INFO	Listening on port 19167
+1540062115336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540062115372	Marionette	DEBUG	[6442450945] Frame script loaded
+1540062115374	Marionette	DEBUG	[6442450945] Frame script registered
+1540062115392	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540062116569	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540062117374	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.spicejet.com/
+1540062118020	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.spicejet.com/
+1540062118145	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.spicejet.com/
+1540062118385	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.spicejet.com/
+1540062118393	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.spicejet.com/
+1540062118623	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+1540062118719	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540062118866	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+[Parent 326128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 326128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 332100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 332220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 332220, Chrome_ChildThread] WARN[Parent 326128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 332072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1540062206747	Marionette	INFO	Stopped listening on port 19167
+[GPU 3
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540062211104	geckodriver	INFO	geckodriver 0.21.0
+1540062211114	geckodriver	INFO	Listening on 127.0.0.1:19222
+1540062214153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jarkko\\AppData\\Local\\Temp\\rust_mozprofile.AbiznbgVXjY2"
+1540062216253	Marionette	INFO	Listening on port 19230
+1540062216297	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540062216348	Marionette	DEBUG	[6442450945] Frame script loaded
+1540062216355	Marionette	DEBUG	[6442450945] Frame script registered
+1540062216393	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540062217771	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540062218518	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.spicejet.com/
+1540062219807	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.spicejet.com/
+1540062219915	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.spicejet.com/
+1540062220117	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.spicejet.com/
+1540062220119	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.spicejet.com/
+1540062220393	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+1540062220496	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540062220499	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1540062220656	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+[Child 326232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 326232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 331896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 331896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540062299555	Marionette	INFO	Stopped listening on port 19230
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540062306554	geckodriver	INFO	geckodriver 0.21.0
+1540062306564	geckodriver	INFO	Listening on 127.0.0.1:19288
+1540062309604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jarkko\\AppData\\Local\\Temp\\rust_mozprofile.eYbZlQJKl2j0"
+1540062311782	Marionette	INFO	Listening on port 19296
+1540062311850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540062311890	Marionette	DEBUG	[6442450945] Frame script loaded
+1540062311892	Marionette	DEBUG	[6442450945] Frame script registered
+1540062311981	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540062313270	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540062313969	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.spicejet.com/
+1540062315050	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.spicejet.com/
+1540062315188	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.spicejet.com/
+1540062315420	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.spicejet.com/
+1540062315422	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.spicejet.com/
+1540062315652	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+1540062315747	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540062315915	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+[Child 332324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 332324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/sr[Parent 330152, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 327508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1540062337925	Marionette	INFO	Stopped listening on port 19296
+[GPU 33078
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540062341240	geckodriver	INFO	geckodriver 0.21.0
+1540062341250	geckodriver	INFO	Listening on 127.0.0.1:19348
+1540062344290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jarkko\\AppData\\Local\\Temp\\rust_mozprofile.x4NX5U1Bbkkc"
+1540062346553	Marionette	INFO	Listening on port 19356
+1540062347021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540062347079	Marionette	DEBUG	[6442450945] Frame script loaded
+1540062347082	Marionette	DEBUG	[6442450945] Frame script registered
+1540062347102	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540062348360	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540062349149	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.spicejet.com/
+1540062350124	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.spicejet.com/
+1540062350286	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.spicejet.com/
+1540062350511	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.spicejet.com/
+1540062350513	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.spicejet.com/
+1540062350811	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+1540062350924	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540062351074	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+1540062382919	geckodriver	INFO	geckodriver 0.21.0
+1540062382929	geckodriver	INFO	Listening on 127.0.0.1:19408
+1540062385972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jarkko\\AppData\\Local\\Temp\\rust_mozprofile.53nkWRfKAqvr"
+1540062388539	Marionette	INFO	Listening on port 19416
+1540062388747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540062388782	Marionette	DEBUG	[6442450945] Frame script loaded
+1540062388784	Marionette	DEBUG	[6442450945] Frame script registered
+1540062388800	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540062390123	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540062390830	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.spicejet.com/
+1540062391814	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.spicejet.com/
+1540062391941	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.spicejet.com/
+1540062392158	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.spicejet.com/
+1540062392160	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.spicejet.com/
+1540062392392	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+1540062392490	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540062392680	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+1540062392707	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+1540062393214	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+1540062393220	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.spicejet.com/InvestorsFinancialInformation.aspx
+1540062393308	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://corporate.spicejet.com/Content/pdf/2016-17AnnualReport.pdf
+1540062402418	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://corporate.spicejet.com/Content/pdf/2016-17AnnualReport.pdf
+[Parent 332164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 333028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 333028, Chrome_ChildThread] W[Child 333044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 333044,[Parent 332164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 332992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1540062609950	Marionette	INFO	Stopped listening on port 19416
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
